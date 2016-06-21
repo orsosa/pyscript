@@ -3,7 +3,9 @@
 requirements:
 
 Latex distribution (I use texlive)
-pdflatex foro compilation and beamer package. for slides
+
+pdflatex for compilation and beamer package for slides.
+
 python > 2.6.6 
 
 Use:
