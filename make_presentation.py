@@ -34,7 +34,7 @@ fout.write("""%%
 \\deftranslation[to=spanish]{Example}{Ejemplo}
 \\usepackage[utf8]{inputenc}
 \\usetheme[hideothersubsections]{PaloAlto}
-\\usecolortheme{albatross}
+\\usecolortheme{crane}
 
 \\usepackage{epstopdf}	%% Included EPS files automatically converted to PDF to include with pdflatex
 %%\\epstopdfsetup{update}
